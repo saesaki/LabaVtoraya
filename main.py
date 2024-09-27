@@ -10,3 +10,6 @@ while i<5:
     else:
         print('Точка не входит')
     i+=1
+
+
+    a new string of code
